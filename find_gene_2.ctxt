@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=find_gene_2
+comment0.text=\r\n\ to\ find\ the\ gene\ usig\ AND\ or\ OR.\r\n\r\n\ @author\ (Kushal\ Ghosh)\r\n\ @version\ (19/02/2019)\r\n
+comment1.params=codon\ startcodon\ dna
+comment1.target=int\ findStopcodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna
+comment2.target=java.lang.String\ findGene(java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

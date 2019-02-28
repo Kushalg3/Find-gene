@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=find_gene3
+comment0.text=\r\n\ To\ find\ genes\ in\ a\ DNA\ strand.\r\n\r\n\ @author\ (Kushal\ Ghosh)\r\n\ @version\ (20/02/2019)\r\n
+comment1.params=Stopcodon\ startcodon\ dna
+comment1.target=int\ findStopcodon(java.lang.String,\ int,\ java.lang.String)
+comment2.params=dna
+comment2.target=java.lang.String\ findGene(java.lang.String)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
